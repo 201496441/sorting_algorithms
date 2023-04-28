@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include "sort.h"
 /**
  * merge - Merges two sorted sub-arrays into a single sorted array
  * @array: Array containing sub-arrays to be merged
